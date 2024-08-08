@@ -179,6 +179,8 @@ a {
     color: #fff;
     margin-bottom: 48px;
     max-width: 496px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .btn {
@@ -197,6 +199,8 @@ a {
     display: block;
     border: none;
     border-radius: 4px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .btn:hover {
